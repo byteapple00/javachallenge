@@ -1,0 +1,3 @@
+- modulo operation (%)
+-  If 38 % 7 = 3, we call 3 is remainder
+- 
