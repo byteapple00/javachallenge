@@ -1,3 +1,3 @@
 - modulo operation (%)
--  If 38 % 7 = 3, we call 3 is remainder
-- 
+- If 38 % 7 = 3, we call 3 is remainder
+- can thing about to use checksum to check similar strings.
